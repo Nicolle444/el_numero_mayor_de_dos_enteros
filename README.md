@@ -1,2 +1,9 @@
-# el_numero_mayor_de_dos_enteros
-programa para verificar cual de dos numeros enteros es el mayor
+# cual_entero_es_mayor
+programa para identificar el numero mayor entre 3 enteros
+
+# Analisis
+
+# Diseño
+
+## Diagrama de flujo
+![Diagrama de flujo](diagrama.png "Diagrama de flujo") 
